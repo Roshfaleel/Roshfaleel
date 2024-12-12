@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi there, I'm Roshani!
 
-<!--
-**Roshfaleel/Roshfaleel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Aspiring Full-Stack Developer | Open Source Contributor | Lifelong Learner**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 **Technical Skills**
+- **Languages**: JavaScript, Python, SQL
+- **Frontend**: React, SCSS, React-Bootstrap
+- **Backend**: Node.js, Express.js, REST APIs
+- **Tools**: Git, Docker, Postman, Figma
+- **Databases**: MySQL, MongoDB
+
+---
+
+### 🛠️ **Projects**
+#### [Pathwise: A Personalized Growth Tracker](https://github.com/Roshfaleel/pathwise-capstone)
+- **Description**: A capstone project designed to help users track skills and achievements, visualize progress, and stay motivated.
+- **Tech Stack**: React, SCSS, Node.js, MySQL
+
+---
+
+### 📫 **Connect With Me**
+- [LinkedIn](https://www.linkedin.com/in/roshani-faleel/)
+- [Email](mailto:roshfaleel98@gmail.com)
