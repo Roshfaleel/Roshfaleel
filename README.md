@@ -6,7 +6,7 @@
 
 ### 🔧 **Technical Skills**
 - **Languages**: JavaScript, Python, SQL
-- **Frontend**: React (https://img.shields.io/badge/React-v18.0-blue), SCSS, React-Bootstrap
+- **Frontend**: React, SCSS, React-Bootstrap
 - **Backend**: Node.js, Express.js, REST APIs
 - **Tools**: Git, Docker, Postman, Figma
 - **Databases**: MySQL, MongoDB
